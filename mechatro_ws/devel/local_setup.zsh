@@ -1,0 +1,1 @@
+/home/mech-user/mechatro_ws/devel/.private/catkin_tools_prebuild/local_setup.zsh

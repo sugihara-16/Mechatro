@@ -1,0 +1,1 @@
+/home/mech-user/mechatro_ws/devel/.private/chork_robo/lib/pkgconfig/chork_robo.pc

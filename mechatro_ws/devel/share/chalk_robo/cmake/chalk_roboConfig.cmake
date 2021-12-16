@@ -1,0 +1,1 @@
+/home/mech-user/mechatro_ws/devel/.private/chalk_robo/share/chalk_robo/cmake/chalk_roboConfig.cmake

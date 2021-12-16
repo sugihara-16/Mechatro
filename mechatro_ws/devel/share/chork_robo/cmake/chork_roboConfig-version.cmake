@@ -1,0 +1,1 @@
+/home/mech-user/mechatro_ws/devel/.private/chork_robo/share/chork_robo/cmake/chork_roboConfig-version.cmake
