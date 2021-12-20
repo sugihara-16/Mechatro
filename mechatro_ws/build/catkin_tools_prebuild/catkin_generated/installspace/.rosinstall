@@ -1,2 +1,2 @@
 - setup-file:
-    local-name: /home/mech-user/mechatro_ws/install/setup.sh
+    local-name: /home/mech-user/mechatro/mechatro_ws/install/setup.sh

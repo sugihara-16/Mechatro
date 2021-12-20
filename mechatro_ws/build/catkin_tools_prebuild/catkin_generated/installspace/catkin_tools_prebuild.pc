@@ -1,4 +1,4 @@
-prefix=/home/mech-user/mechatro_ws/install
+prefix=/home/mech-user/mechatro/mechatro_ws/install
 
 Name: catkin_tools_prebuild
 Description: Description of catkin_tools_prebuild

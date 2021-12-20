@@ -1,5 +1,5 @@
 chalk_robo
-/home/mech-user/mechatro_ws/devel/.private/chalk_robo/cmake.lock /home/mech-user/mechatro_ws/devel/./cmake.lock
-/home/mech-user/mechatro_ws/devel/.private/chalk_robo/share/chalk_robo/cmake/chalk_roboConfig-version.cmake /home/mech-user/mechatro_ws/devel/share/chalk_robo/cmake/chalk_roboConfig-version.cmake
-/home/mech-user/mechatro_ws/devel/.private/chalk_robo/share/chalk_robo/cmake/chalk_roboConfig.cmake /home/mech-user/mechatro_ws/devel/share/chalk_robo/cmake/chalk_roboConfig.cmake
-/home/mech-user/mechatro_ws/devel/.private/chalk_robo/lib/pkgconfig/chalk_robo.pc /home/mech-user/mechatro_ws/devel/lib/pkgconfig/chalk_robo.pc
+/home/mech-user/mechatro/mechatro_ws/devel/.private/chalk_robo/cmake.lock /home/mech-user/mechatro/mechatro_ws/devel/./cmake.lock
+/home/mech-user/mechatro/mechatro_ws/devel/.private/chalk_robo/share/chalk_robo/cmake/chalk_roboConfig-version.cmake /home/mech-user/mechatro/mechatro_ws/devel/share/chalk_robo/cmake/chalk_roboConfig-version.cmake
+/home/mech-user/mechatro/mechatro_ws/devel/.private/chalk_robo/share/chalk_robo/cmake/chalk_roboConfig.cmake /home/mech-user/mechatro/mechatro_ws/devel/share/chalk_robo/cmake/chalk_roboConfig.cmake
+/home/mech-user/mechatro/mechatro_ws/devel/.private/chalk_robo/lib/pkgconfig/chalk_robo.pc /home/mech-user/mechatro/mechatro_ws/devel/lib/pkgconfig/chalk_robo.pc

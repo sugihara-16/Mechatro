@@ -1,4 +1,4 @@
-prefix=/home/mech-user/mechatro_ws/devel/.private/chalk_robo
+prefix=/home/mech-user/mechatro/mechatro_ws/devel/.private/chalk_robo
 
 Name: chalk_robo
 Description: Description of chalk_robo

@@ -1,8 +1,0 @@
-prefix=/home/mech-user/mechatro_ws/devel/.private/chork_robo
-
-Name: chork_robo
-Description: Description of chork_robo
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

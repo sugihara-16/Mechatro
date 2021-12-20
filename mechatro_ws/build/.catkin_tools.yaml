@@ -1,6 +1,6 @@
-devel_space: /home/mech-user/mechatro_ws/devel
+devel_space: /home/mech-user/mechatro/mechatro_ws/devel
 install: false
-install_space: /home/mech-user/mechatro_ws/install
+install_space: /home/mech-user/mechatro/mechatro_ws/install
 profile: default
-source_space: /home/mech-user/mechatro_ws/src
-workspace: /home/mech-user/mechatro_ws
+source_space: /home/mech-user/mechatro/mechatro_ws/src
+workspace: /home/mech-user/mechatro/mechatro_ws

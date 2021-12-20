@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/mech-user/mechatro_ws/src/chalk_robo
+CMAKE_SOURCE_DIR = /home/mech-user/mechatro/mechatro_ws/src/chalk_robo
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/mech-user/mechatro_ws/build/chalk_robo
+CMAKE_BINARY_DIR = /home/mech-user/mechatro/mechatro_ws/build/chalk_robo
 
 # Utility rule file for rosgraph_msgs_generate_messages_cpp.
 
@@ -67,6 +67,6 @@ CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/clean:
 .PHONY : CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/clean
 
 CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/depend:
-	cd /home/mech-user/mechatro_ws/build/chalk_robo && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/mech-user/mechatro_ws/src/chalk_robo /home/mech-user/mechatro_ws/src/chalk_robo /home/mech-user/mechatro_ws/build/chalk_robo /home/mech-user/mechatro_ws/build/chalk_robo /home/mech-user/mechatro_ws/build/chalk_robo/CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/mech-user/mechatro/mechatro_ws/build/chalk_robo && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/mech-user/mechatro/mechatro_ws/src/chalk_robo /home/mech-user/mechatro/mechatro_ws/src/chalk_robo /home/mech-user/mechatro/mechatro_ws/build/chalk_robo /home/mech-user/mechatro/mechatro_ws/build/chalk_robo /home/mech-user/mechatro/mechatro_ws/build/chalk_robo/CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/depend
 

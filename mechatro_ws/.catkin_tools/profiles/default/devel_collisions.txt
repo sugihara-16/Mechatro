@@ -1,1 +1,2 @@
 /home/mech-user/mechatro_ws/devel/./cmake.lock 4
+/home/mech-user/mechatro/mechatro_ws/devel/./cmake.lock 8

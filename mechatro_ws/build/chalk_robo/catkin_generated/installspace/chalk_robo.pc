@@ -1,4 +1,4 @@
-prefix=/home/mech-user/mechatro_ws/install
+prefix=/home/mech-user/mechatro/mechatro_ws/install
 
 Name: chalk_robo
 Description: Description of chalk_robo

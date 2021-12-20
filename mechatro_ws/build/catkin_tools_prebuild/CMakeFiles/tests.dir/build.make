@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/mech-user/mechatro_ws/build/catkin_tools_prebuild
+CMAKE_SOURCE_DIR = /home/mech-user/mechatro/mechatro_ws/build/catkin_tools_prebuild
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/mech-user/mechatro_ws/build/catkin_tools_prebuild
+CMAKE_BINARY_DIR = /home/mech-user/mechatro/mechatro_ws/build/catkin_tools_prebuild
 
 # Utility rule file for tests.
 
@@ -67,6 +67,6 @@ CMakeFiles/tests.dir/clean:
 .PHONY : CMakeFiles/tests.dir/clean
 
 CMakeFiles/tests.dir/depend:
-	cd /home/mech-user/mechatro_ws/build/catkin_tools_prebuild && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/mech-user/mechatro_ws/build/catkin_tools_prebuild /home/mech-user/mechatro_ws/build/catkin_tools_prebuild /home/mech-user/mechatro_ws/build/catkin_tools_prebuild /home/mech-user/mechatro_ws/build/catkin_tools_prebuild /home/mech-user/mechatro_ws/build/catkin_tools_prebuild/CMakeFiles/tests.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/mech-user/mechatro/mechatro_ws/build/catkin_tools_prebuild && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/mech-user/mechatro/mechatro_ws/build/catkin_tools_prebuild /home/mech-user/mechatro/mechatro_ws/build/catkin_tools_prebuild /home/mech-user/mechatro/mechatro_ws/build/catkin_tools_prebuild /home/mech-user/mechatro/mechatro_ws/build/catkin_tools_prebuild /home/mech-user/mechatro/mechatro_ws/build/catkin_tools_prebuild/CMakeFiles/tests.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/tests.dir/depend
 

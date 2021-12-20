@@ -67,14 +67,14 @@ set(chalk_robo_CONFIG_INCLUDED TRUE)
 
 # set variables for source/devel/install prefixes
 if("FALSE" STREQUAL "TRUE")
-  set(chalk_robo_SOURCE_PREFIX /home/mech-user/mechatro_ws/src/chalk_robo)
-  set(chalk_robo_DEVEL_PREFIX /home/mech-user/mechatro_ws/devel/.private/chalk_robo)
+  set(chalk_robo_SOURCE_PREFIX /home/mech-user/mechatro/mechatro_ws/src/chalk_robo)
+  set(chalk_robo_DEVEL_PREFIX /home/mech-user/mechatro/mechatro_ws/devel/.private/chalk_robo)
   set(chalk_robo_INSTALL_PREFIX "")
   set(chalk_robo_PREFIX ${chalk_robo_DEVEL_PREFIX})
 else()
   set(chalk_robo_SOURCE_PREFIX "")
   set(chalk_robo_DEVEL_PREFIX "")
-  set(chalk_robo_INSTALL_PREFIX /home/mech-user/mechatro_ws/install)
+  set(chalk_robo_INSTALL_PREFIX /home/mech-user/mechatro/mechatro_ws/install)
   set(chalk_robo_PREFIX ${chalk_robo_INSTALL_PREFIX})
 endif()
 
@@ -154,7 +154,7 @@ foreach(library ${libraries})
     set(lib_path "")
     set(lib "${library}-NOTFOUND")
     # since the path where the library is found is returned we have to iterate over the paths manually
-    foreach(path /home/mech-user/mechatro_ws/install/lib;/home/mech-user/mechatro_ws/devel/lib;/opt/ros/melodic/lib)
+    foreach(path /home/mech-user/mechatro/mechatro_ws/install/lib;/home/mech-user/mechatro/mechatro_ws/devel/lib;/opt/ros/melodic/lib)
       find_library(lib ${library}
         PATHS ${path}
         NO_DEFAULT_PATH NO_CMAKE_FIND_ROOT_PATH)

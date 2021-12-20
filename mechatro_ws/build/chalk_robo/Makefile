@@ -48,10 +48,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/mech-user/mechatro_ws/src/chalk_robo
+CMAKE_SOURCE_DIR = /home/mech-user/mechatro/mechatro_ws/src/chalk_robo
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/mech-user/mechatro_ws/build/chalk_robo
+CMAKE_BINARY_DIR = /home/mech-user/mechatro/mechatro_ws/build/chalk_robo
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -137,9 +137,9 @@ install/fast: preinstall/fast
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/mech-user/mechatro_ws/build/chalk_robo/CMakeFiles /home/mech-user/mechatro_ws/build/chalk_robo/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/mech-user/mechatro/mechatro_ws/build/chalk_robo/CMakeFiles /home/mech-user/mechatro/mechatro_ws/build/chalk_robo/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/mech-user/mechatro_ws/build/chalk_robo/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/mech-user/mechatro/mechatro_ws/build/chalk_robo/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
